@@ -8,4 +8,8 @@
 Пароль: _dZgzOf8
 
 # Ход решения
+## 1 Созвон - декопозиция 
+![image](https://github.com/team12-hackatons/LCT-Hack/assets/107514777/24f0aa9e-2808-42bc-bf08-94883a3c55cd)
+![image](https://github.com/team12-hackatons/LCT-Hack/assets/107514777/24f0aa9e-2808-42bc-bf08-94883a3c55cd)
+
 
